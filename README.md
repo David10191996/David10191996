@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/dotnet-ecosystem.svg" alt=".NET Ecosystem" width="680"/>
+  <img src="./assets/dotnet_ecosystem_banner.svg" alt=".NET Ecosystem" width="680"/>
 </p>
 
 
