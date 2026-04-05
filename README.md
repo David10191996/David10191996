@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/dotnet-ecosystem.svg" alt=".NET Ecosystem" width="680"/>
+</p>
+
+
 # 👨‍💻 Sobre mí
 
 Ingeniero de Sistemas con más de **4 años de experiencia** en desarrollo de software empresarial, especializado en:
